@@ -1,10 +1,11 @@
-<img src="https://i.pinimg.com/564x/4d/97/a5/4d97a5149ced44ab46a166a3c2b10d9b.jpg" alt="Lwh banner" align="center" style="display: flex;justify-content: center; align-self: center; margin-left: 40px;"/>
+<center>
+<img src="https://i.pinimg.com/564x/4d/97/a5/4d97a5149ced44ab46a166a3c2b10d9b.jpg" alt="Lwh banner" />
 
 <center><h1> 😊 - Hey, im Lwh</h1></center>
 
 <div align="center">
         <h1> 👨🏻‍💻 &nbsp;About Me</h1>
-        
+    
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science and Mathematics alone and self-taught.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
@@ -48,3 +49,5 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lwh-codes&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+</center>
