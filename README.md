@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+<img src="https://i.pinimg.com/564x/4d/97/a5/4d97a5149ced44ab46a166a3c2b10d9b.jpg" alt="Lwh banner" align="center" style="display: flex;justify-content: center; align-self: center; margin-left: 40px;"/>
 
 <center><h1> 😊 - Hey, im Lwh</h1></center>
 
