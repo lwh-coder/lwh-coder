@@ -1,13 +1,14 @@
 <center>
 <img src="https://i.pinimg.com/564x/4d/97/a5/4d97a5149ced44ab46a166a3c2b10d9b.jpg" alt="Lwh banner" />
 
-<center><h1> 😊 - Hey, im [Lwh](https://lwh.codes)</h1></center>
+<center><h1> 😊 - Hey, im Lwh</h1></center>
 
 <div align="center">
         <h1> 👨🏻‍💻 &nbsp;About Me</h1>
     
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science and Mathematics alone and self-taught.\
+🧑🏻‍💻 &nbsp;I'm a coder and i have my own [website](https://lwh.codes)!
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
